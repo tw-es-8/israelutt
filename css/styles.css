@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(187, 208, 255);
+}
+.divs {
+    background-color: rgb(255, 253, 118);
+    margin-bottom: 10px;
+    width: 100px;
+    height: 100px;
+}
